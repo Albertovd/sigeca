@@ -10,6 +10,7 @@ import './styles.css';
 
 
 
+
 export default function landing() {
   return (
     (<div className="max-w-screen mx-auto">
